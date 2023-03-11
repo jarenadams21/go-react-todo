@@ -2,7 +2,7 @@
 
 ## Intended further features
 * Uncheck a todo if you realize the task isn't complete
-* APIS MUAHAHAH
+* APIs MUAHAHAH
 * Other basic todo features lol
 
 ## What is used?
