@@ -1,5 +1,10 @@
 # Todo Application w/ Go & React
 
+## Intended further features
+* Uncheck a todo if you realize the task isn't complete
+* APIS MUAHAHAH
+* Other basic todo features lol
+
 ## What is used?
 * [Go](https://go.dev/) - Server
 * [Fiber](https://github.com/gofiber/fiber) - Go web server
