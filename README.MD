@@ -20,3 +20,4 @@
 
 ## Additonal notes
 * Todos are stored in memory, no database persistence
+* Notes file is available to see thought process + other notes about technologies used
