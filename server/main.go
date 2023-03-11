@@ -1,5 +1,8 @@
 package main
 
+// c * fiber.Ctx
+// = have fiber context point to c variable
+
 import (
 	"fmt"
 	"log"
