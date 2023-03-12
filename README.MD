@@ -2,7 +2,7 @@
 
 ## Intended further features
 * Uncheck a todo if you realize the task isn't complete
-* APIS MUAHAHAH
+* APIs MUAHAHAH
 * Other basic todo features lol
 
 ## What is used?
@@ -20,3 +20,4 @@
 
 ## Additonal notes
 * Todos are stored in memory, no database persistence
+* Notes file is available to see thought process + other notes about technologies used

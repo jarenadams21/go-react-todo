@@ -1,5 +1,8 @@
 package main
 
+// c * fiber.Ctx
+// = have fiber context point to c variable
+
 import (
 	"fmt"
 	"log"
@@ -76,7 +79,7 @@ func main() {
 			}
 
 		}
-
+// c = Context 
 		return c.JSON(todos)
 	})
 
