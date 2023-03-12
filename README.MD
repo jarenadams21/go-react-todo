@@ -1,7 +1,7 @@
 # Todo Application w/ Go & React
 
 ## Intended further features
-* Uncheck a todo if you realize the task isn't complete
+* Display a todo's content body on the client UI
 * APIs MUAHAHAH
 * Other basic todo features lol
 
