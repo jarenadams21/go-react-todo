@@ -50,6 +50,9 @@ func main() {
 		// give todo an ID
 		todo.ID = len(todos) + 1
 
+		// Default a todo with a false done property
+		todo.Done = false
+
 		// Append new todo to array of todos
 		todos = append(todos, *todo)
 
@@ -68,7 +71,7 @@ func main() {
 		// t = todo
 		for i, t := range todos {
 			if t.ID == id {
-				todos[i].Done = true
+				todos[i].Done = !(todos[i].Done)
 				break
 			}
 
